@@ -1,0 +1,1 @@
+.score-container{display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh;font-size:2em}.high-score{color:green}.low-score{color:red}.try-again-button{margin-top:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer}.try-again-button:hover{background-color:#0056b3}
