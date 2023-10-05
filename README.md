@@ -1,0 +1,1 @@
+This is the GitHub Pages repo to deploy [this](https://github.com/JvandeKraats/PeopleFirst-TheGame) app.
